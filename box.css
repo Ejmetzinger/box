@@ -1,4 +1,6 @@
-.body {
-  background-color:red;
+
+body{
+  background-image: linear-gradient(grey, white);
+  border:black solid 3px;
 
 }
